@@ -8,6 +8,7 @@ import NotFound from "./pages/NotFound.tsx";
 
 const queryClient = new QueryClient();
 
+// Cartel Auto Detail - Premium Detailing Studio
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
